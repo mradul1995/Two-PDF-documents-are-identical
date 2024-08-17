@@ -17,7 +17,7 @@ def compare_pdfs(pdf1_path, pdf2_path):
     else:
         print("The PDF documents are different.")
 
-pdf1_path = 'Enter your file1 path/Enter your file name'
-pdf2_path = 'Enter your file1 path/Enter your file name'
+pdf1_path = 'Enter your file1 path/Enter your file1 name'
+pdf2_path = 'Enter your file2 path/Enter your file2 name'
 
 compare_pdfs(pdf1_path, pdf2_path)
